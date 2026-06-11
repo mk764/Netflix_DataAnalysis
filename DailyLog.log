@@ -1,0 +1,16 @@
+DAY_1
+
+1.) load the csv file into the database,
+    and show null values in each column.
+2.) filter rows where rating is "TV-MA"
+3.) show the top 5 most common genres in the dataset.
+
+DAY_2
+1.) group by country and count titles,
+    sort descending.
+2.) create column that flag rows where,
+    duration > 100 minutes.
+3.) merge this dataframe with
+    another CSV on title column.
+
+
